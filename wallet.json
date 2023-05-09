@@ -4,19 +4,19 @@
             "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
             "name":"USD Coin",
             "shortName":"USDC",
-            "balance":0
+            "balance":0.0
         },
         {
             "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
             "name":"Ethereum",
             "shortName":"ETH",
-            "balance":0
+            "balance":0.0
         },
         {
             "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
             "name":"Dogecoin",
             "shortName":"DOGE",
-            "balance":0
+            "balance":0.0
         }
     ],
     "tokens":[
@@ -24,25 +24,25 @@
             "icon":"",
             "name":"Fighters' Club Token",
             "shortName":"FCT",
-            "balance":0
+            "balance":0.0
         },
         {
             "icon":"",
             "name":"Territe Token",
             "shortName":"NKT",
-            "balance":0
+            "balance":0.0
         },
         {
             "icon":"",
             "name":"Asterite Token",
             "shortName":"NKA",
-            "balance":0
+            "balance":0.0
         },
         {
             "icon":"",
             "name":"INETRIUM",
             "shortName":"ITU",
-            "balance":0
+            "balance":0.0
         }
     ]
 }
