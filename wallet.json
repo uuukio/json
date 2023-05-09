@@ -2,19 +2,19 @@
     "name": "Vanrio",
     "assets":[
         {
-            "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png",
+            "icon":"http://x.magiconch.com/images/background/default/bccfdd90378066e05e59658188fcb5c1.jpg",
             "name":"USD Coin",
             "shortName":"USDC",
             "balance":0.0
         },
         {
-            "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
+            "icon":"http://x.magiconch.com/images/background/default/e968d49baba2a4171879a714d84c0e40.JPG",
             "name":"Ethereum",
             "shortName":"ETH",
             "balance":0.0
         },
         {
-            "icon":"https://s2.coinmarketcap.com/static/img/coins/64x64/74.png",
+            "icon":"http://x.magiconch.com/images/background/default/6f35a9a8cc593407ccb65abb26393924.jpg",
             "name":"Dogecoin",
             "shortName":"DOGE",
             "balance":0.0
@@ -28,19 +28,19 @@
             "balance":0.0
         },
         {
-            "icon":"",
+            "icon":"http://x.magiconch.com/images/background/default/9143e379b7caf33718c70517131f700f.jpg",
             "name":"Territe Token",
             "shortName":"NKT",
             "balance":0.0
         },
         {
-            "icon":"",
+            "icon":"http://x.magiconch.com/images/background/default/3d16d6b5d309794a7904c55a83db2407.jpg",
             "name":"Asterite Token",
             "shortName":"NKA",
             "balance":0.0
         },
         {
-            "icon":"",
+            "icon":"http://x.magiconch.com/images/background/default/89f75f4523ee577159cead61bb4eac29.jpg",
             "name":"INETRIUM",
             "shortName":"ITU",
             "balance":0.0
